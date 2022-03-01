@@ -2488,6 +2488,20 @@
     },
     {
       "chainId": 101,
+      "address": "7rxkKVPwD7ddXuEryeC7mwHyBscz3eqxmgeYhaeySRnF",
+      "symbol": "GOOP",
+      "name": "Goop Coin",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/Goop-House/goop-coin/main/goop_house_logo_for_disc_1_60.png",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        "website": "goop.house"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "GPoBx2hycDs3t4Q8DeBme9RHb9nQpzH3a36iUoojHe16",
       "symbol": "ARKK",
       "name": "ARK Innovation ETF",
